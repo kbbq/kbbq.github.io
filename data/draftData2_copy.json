@@ -1,0 +1,1097 @@
+[
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 1,
+    "playerName": "Russell Westbrook",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 3.1,
+    "draftedRoundYahoo": "1.2"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 2,
+    "playerName": "Stephen Curry",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 1.7,
+    "draftedRoundYahoo": "1.1"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 3,
+    "playerName": "Kevin Durant",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 2.9,
+    "draftedRoundYahoo": "1.1"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 4,
+    "playerName": "Karl-Anthony Towns",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 5.9,
+    "draftedRoundYahoo": "1.2"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 5,
+    "playerName": "James Harden",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 3.3,
+      "draftedRoundYahoo": "1.1"
+  },{
+    "draftedRoundLeague": 1,
+    "pickLeague": 6,
+    "playerName": "Kawhi Leonard",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 6.9,
+    "draftedRoundYahoo": "1.2"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 7,
+    "playerName": "LeBron James",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 8,
+    "draftedRoundYahoo": "1.2"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 8,
+    "playerName": "Giannis Antetokounmpo",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 9.3,
+    "draftedRoundYahoo": "1.3"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 9,
+    "playerName": "Anthony Davis",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 8.3,
+    "draftedRoundYahoo": "1.2"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 10,
+    "playerName": "Chris Paul",
+    "draftTeam": "Champs",
+    "pickYahoo": 9.7,
+    "draftedRoundYahoo": "1.2"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 11,
+    "playerName": "Paul George",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 10.7,
+    "draftedRoundYahoo": "1.3"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 12,
+    "playerName": "Hassan Whiteside",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 13.4,
+    "draftedRoundYahoo": "1.9"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 13,
+    "playerName": "DeMarcus Cousins",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 14,
+    "draftedRoundYahoo": "2.1"
+  },
+  {
+    "draftedRoundLeague": 1,
+    "pickLeague": 14,
+    "playerName": "Damian Lillard",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 12.3,
+    "draftedRoundYahoo": "1.7"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 15,
+    "playerName": "Kyle Lowry",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 21.1,
+    "draftedRoundYahoo": "2.5"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 16,
+    "playerName": "John Wall",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 21.8,
+    "draftedRoundYahoo": "2.7"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 17,
+    "playerName": "Paul Millsap",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 16.2,
+    "draftedRoundYahoo": "2.3"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 18,
+    "playerName": "Jimmy Butler",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 16.6,
+    "draftedRoundYahoo": "2.2"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 19,
+    "playerName": "Draymond Green",
+    "draftTeam": "Champs",
+    "pickYahoo": 19.9,
+    "draftedRoundYahoo": "2.4"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 20,
+    "playerName": "Andre Drummond",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 42.5,
+    "draftedRoundYahoo": "4.7"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 21,
+    "playerName": "Victor Oladipo",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 22.9,
+    "draftedRoundYahoo": "2.7"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 22,
+    "playerName": "Al Horford",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 20.5,
+    "draftedRoundYahoo": "2.4"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 23,
+    "playerName": "LaMarcus Aldridge",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 22,
+    "draftedRoundYahoo": "2.5"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 24,
+    "playerName": "Kyrie Irving",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 20.3,
+    "draftedRoundYahoo": "2.5"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 25,
+    "playerName": "Kemba Walker",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 25.7,
+    "draftedRoundYahoo": "3.0"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 26,
+    "playerName": "DeAndre Jordan",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 41.6,
+    "draftedRoundYahoo": "4.5"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 27,
+    "playerName": "Kevin Love",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 33.3,
+    "draftedRoundYahoo": "3.6"
+  },
+  {
+    "draftedRoundLeague": 2,
+    "pickLeague": 28,
+    "playerName": "Brook Lopez",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 34.1,
+    "draftedRoundYahoo": "3.7"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 29,
+    "playerName": "Blake Griffin",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 29.3,
+    "draftedRoundYahoo": "3.4"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 30,
+    "playerName": "Klay Thompson",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 24.4,
+    "draftedRoundYahoo": "2.9"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 31,
+    "playerName": "Isaiah Thomas",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 33.8,
+    "draftedRoundYahoo": "3.9"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 32,
+    "playerName": "Eric Bledsoe",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 36.4,
+    "draftedRoundYahoo": "4.0"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 33,
+    "playerName": "Kristaps Porzingis",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 24.9,
+    "draftedRoundYahoo": "3.0"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 34,
+    "playerName": "Nikola Jokic",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 32.8,
+    "draftedRoundYahoo": "3.8"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 35,
+    "playerName": "Carmelo Anthony",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 30.5,
+    "draftedRoundYahoo": "3.4"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 36,
+    "playerName": "Serge Ibaka",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 30,
+    "draftedRoundYahoo": "3.5"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 37,
+    "playerName": "C.J. McCollum",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 32.2,
+    "draftedRoundYahoo": "3.6"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 38,
+    "playerName": "DeMar DeRozan",
+    "draftTeam": "Champs",
+    "pickYahoo": 38.3,
+    "draftedRoundYahoo": "4.3"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 39,
+    "playerName": "Derrick Favors",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 33.9,
+    "draftedRoundYahoo": "3.7"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 40,
+    "playerName": "Myles Turner",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 47,
+    "draftedRoundYahoo": "5.1"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 41,
+    "playerName": "Pau Gasol",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 51.6,
+    "draftedRoundYahoo": "5.5"
+  },
+  {
+    "draftedRoundLeague": 3,
+    "pickLeague": 42,
+    "playerName": "Dwight Howard",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 73.9,
+    "draftedRoundYahoo": "7.6"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 43,
+    "playerName": "Ricky Rubio",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 50.1,
+    "draftedRoundYahoo": "5.2"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 44,
+    "playerName": "Nicolas Batum",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 54.7,
+    "draftedRoundYahoo": "5.8"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 45,
+    "playerName": "Mike Conley",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 41.8,
+    "draftedRoundYahoo": "4.6"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 46,
+    "playerName": "Rudy Gobert",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 43.6,
+    "draftedRoundYahoo": "4.8"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 47,
+    "playerName": "Greg Monroe",
+    "draftTeam": "Champs",
+    "pickYahoo": 79.1,
+    "draftedRoundYahoo": "8.1"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 48,
+    "playerName": "D'Angelo Russell",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 74.5,
+    "draftedRoundYahoo": "7.7"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 49,
+    "playerName": "Jonas Valanciunas",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 41.9,
+    "draftedRoundYahoo": "4.5"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 50,
+    "playerName": "Andrew Wiggins",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 41.5,
+    "draftedRoundYahoo": "4.5"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 51,
+    "playerName": "Trevor Ariza",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 48.5,
+    "draftedRoundYahoo": "5.1"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 52,
+    "playerName": "Tobias Harris",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 47.2,
+    "draftedRoundYahoo": "5.0"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 53,
+    "playerName": "Gordon Hayward",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 54,
+    "draftedRoundYahoo": "5.6"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 54,
+    "playerName": "Goran Dragic",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 53.2,
+    "draftedRoundYahoo": "5.7"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 55,
+    "playerName": "Evan Fournier",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 67.8,
+    "draftedRoundYahoo": "6.9"
+  },
+  {
+    "draftedRoundLeague": 4,
+    "pickLeague": 56,
+    "playerName": "Gorgui Dieng",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 51.5,
+    "draftedRoundYahoo": "5.4"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 57,
+    "playerName": "Jae Crowder",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 61.1,
+    "draftedRoundYahoo": "6.3"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 58,
+    "playerName": "Nikola Vucevic",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 52.9,
+    "draftedRoundYahoo": "5.6"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 59,
+    "playerName": "Jabari Parker",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 61,
+    "draftedRoundYahoo": "6.4"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 60,
+    "playerName": "Joel Embiid",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 99.9,
+    "draftedRoundYahoo": "10.0"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 61,
+    "playerName": "Aaron Gordon",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 64.4,
+    "draftedRoundYahoo": "6.6"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 62,
+    "playerName": "Marc Gasol",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 54.5,
+    "draftedRoundYahoo": "5.8"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 63,
+    "playerName": "Jeff Teague",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 57.4,
+    "draftedRoundYahoo": "6.0"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 64,
+    "playerName": "Zach LaVine",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 62.7,
+    "draftedRoundYahoo": "6.5"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 65,
+    "playerName": "Rajon Rondo",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 76.9,
+    "draftedRoundYahoo": "7.9"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 66,
+    "playerName": "Devin Booker",
+    "draftTeam": "Champs",
+    "pickYahoo": 86.2,
+    "draftedRoundYahoo": "8.8"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 67,
+    "playerName": "Otto Porter",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 65.4,
+    "draftedRoundYahoo": "6.7"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 68,
+    "playerName": "Darren Collison",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 69.8,
+    "draftedRoundYahoo": "7.1"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 69,
+    "playerName": "Danilo Gallinari",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 72.1,
+    "draftedRoundYahoo": "7.4"
+  },
+  {
+    "draftedRoundLeague": 5,
+    "pickLeague": 70,
+    "playerName": "Marcin Gortat",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 68.4,
+    "draftedRoundYahoo": "7.0"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 71,
+    "playerName": "Brandon Knight",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 80.5,
+    "draftedRoundYahoo": "8.2"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 72,
+    "playerName": "Dennis Schroder",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 74,
+    "draftedRoundYahoo": "7.6"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 73,
+    "playerName": "Dirk Nowitzki",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 59.6,
+    "draftedRoundYahoo": "6.2"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 74,
+    "playerName": "Nerlens Noel",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 69.9,
+    "draftedRoundYahoo": "7.0"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 75,
+    "playerName": "Enes Kanter",
+    "draftTeam": "Champs",
+    "pickYahoo": 74.5,
+    "draftedRoundYahoo": "7.7"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 76,
+    "playerName": "Rudy Gay",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 65.7,
+    "draftedRoundYahoo": "6.9"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 77,
+    "playerName": "Ryan Anderson",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 71.2,
+    "draftedRoundYahoo": "7.3"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 78,
+    "playerName": "Steven Adams",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 68.2,
+    "draftedRoundYahoo": "7.0"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 79,
+    "playerName": "Avery Bradley",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 75.7,
+    "draftedRoundYahoo": "7.8"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 80,
+    "playerName": "Nikola Mirotic",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 80.5,
+    "draftedRoundYahoo": "8.1"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 81,
+    "playerName": "Bradley Beal",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 75,
+    "draftedRoundYahoo": "7.7"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 82,
+    "playerName": "Mason Plumlee",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 124.4,
+    "draftedRoundYahoo": "12.4"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 83,
+    "playerName": "George Hill",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 83.8,
+    "draftedRoundYahoo": "8.4"
+  },
+  {
+    "draftedRoundLeague": 6,
+    "pickLeague": 84,
+    "playerName": "Jeremy Lin",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 95.5,
+    "draftedRoundYahoo": "9.6"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 85,
+    "playerName": "Thaddeus Young",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 79.6,
+    "draftedRoundYahoo": "8.1"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 86,
+    "playerName": "DeMarre Carroll",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 92.1,
+    "draftedRoundYahoo": "9.3"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 87,
+    "playerName": "Julius Randle",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 106,
+    "draftedRoundYahoo": "10.6"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 88,
+    "playerName": "Dario Saric",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 117.7,
+    "draftedRoundYahoo": "11.6"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 89,
+    "playerName": "Danny Green",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 92.1,
+    "draftedRoundYahoo": "9.2"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 90,
+    "playerName": "Rondae Hollis-Jefferson",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 92.2,
+    "draftedRoundYahoo": "9.1"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 91,
+    "playerName": "Wesley Matthews",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 93.6,
+    "draftedRoundYahoo": "9.4"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 92,
+    "playerName": "Kenneth Faried",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 89.4,
+    "draftedRoundYahoo": "9.0"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 93,
+    "playerName": "Chandler Parsons",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 90.9,
+    "draftedRoundYahoo": "9.0"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 94,
+    "playerName": "J.J. Redick",
+    "draftTeam": "Champs",
+    "pickYahoo": 91.3,
+    "draftedRoundYahoo": "9.3"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 95,
+    "playerName": "Jordan Clarkson",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 87.5,
+    "draftedRoundYahoo": "8.9"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 96,
+    "playerName": "Monta Ellis",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 89,
+    "draftedRoundYahoo": "9.0"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 97,
+    "playerName": "Dwyane Wade",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 76.9,
+    "draftedRoundYahoo": "7.9"
+  },
+  {
+    "draftedRoundLeague": 7,
+    "pickLeague": 98,
+    "playerName": "Marvin Williams",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 104.6,
+    "draftedRoundYahoo": "10.3"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 99,
+    "playerName": "Reggie Jackson",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 96.1,
+    "draftedRoundYahoo": "9.4"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 100,
+    "playerName": "Deron Williams",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 120.1,
+    "draftedRoundYahoo": "11.9"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 101,
+    "playerName": "Rodney Hood",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 98,
+    "draftedRoundYahoo": "9.9"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 102,
+    "playerName": "Gary Harris",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 107,
+    "draftedRoundYahoo": "10.7"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 103,
+    "playerName": "Tristan Thompson",
+    "draftTeam": "Champs",
+    "pickYahoo": 109.8,
+    "draftedRoundYahoo": "10.9"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 104,
+    "playerName": "Eric Gordon",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 116,
+    "draftedRoundYahoo": "11.6"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 105,
+    "playerName": "Harrison Barnes",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 92.8,
+    "draftedRoundYahoo": "9.4"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 106,
+    "playerName": "Elfrid Payton",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 120.5,
+    "draftedRoundYahoo": "12.0"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 107,
+    "playerName": "Kent Bazemore",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 102.9,
+    "draftedRoundYahoo": "10.3"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 108,
+    "playerName": "Jusuf Nurkic",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 96.2,
+    "draftedRoundYahoo": "9.6"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 109,
+    "playerName": "Markieff Morris",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 113,
+    "draftedRoundYahoo": "11.4"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 110,
+    "playerName": "Matthew Dellavedova",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 142.1,
+    "draftedRoundYahoo": "13.9"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 111,
+    "playerName": "Robin Lopez",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 89.7,
+    "draftedRoundYahoo": "9.1"
+  },
+  {
+    "draftedRoundLeague": 8,
+    "pickLeague": 112,
+    "playerName": "Kentavious Caldwell-Pope",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 117.8,
+    "draftedRoundYahoo": "11.8"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 113,
+    "playerName": "Kyle Korver",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 120.5,
+    "draftedRoundYahoo": "12.0"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 114,
+    "playerName": "Jahlil Okafor",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 95.4,
+    "draftedRoundYahoo": "9.6"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 115,
+    "playerName": "Marcus Morris",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 133.2,
+    "draftedRoundYahoo": "12.6"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 116,
+    "playerName": "Courtney Lee",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 141.4,
+    "draftedRoundYahoo": "14.1"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 117,
+    "playerName": "Marcus Smart",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 116.4,
+    "draftedRoundYahoo": "11.5"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 118,
+    "playerName": "J.R. Smith",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 107.6,
+    "draftedRoundYahoo": "10.7"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 119,
+    "playerName": "Derrick Rose",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 109.6,
+    "draftedRoundYahoo": "10.9"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 120,
+    "playerName": "Clint Capela",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 107.1,
+    "draftedRoundYahoo": "10.8"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 121,
+    "playerName": "Robert Covington",
+    "draftTeam": "Like A Bosh",
+    "pickYahoo": 112.2,
+    "draftedRoundYahoo": "11.1"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 122,
+    "playerName": "Zach Randolph",
+    "draftTeam": "Champs",
+    "pickYahoo": 107.2,
+    "draftedRoundYahoo": "10.8"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 123,
+    "playerName": "Patrick Beverley",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 118.9,
+    "draftedRoundYahoo": "11.8"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 124,
+    "playerName": "Justise Winslow",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 121.7,
+    "draftedRoundYahoo": "12.0"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 125,
+    "playerName": "Joakim Noah",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 125.9,
+    "draftedRoundYahoo": "12.5"
+  },
+  {
+    "draftedRoundLeague": 9,
+    "pickLeague": 126,
+    "playerName": "Luol Deng",
+    "draftTeam": "LillardTime ...",
+    "pickYahoo": 121.5,
+    "draftedRoundYahoo": "12.1"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 128,
+    "playerName": "Jrue Holiday",
+    "draftTeam": "Keak da Greek",
+    "pickYahoo": 109.9,
+    "draftedRoundYahoo": "10.8"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 129,
+    "playerName": "Al-Farouq Aminu",
+    "draftTeam": "Jenn-nay",
+    "pickYahoo": 123.2,
+    "draftedRoundYahoo": "12.2"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 130,
+    "playerName": "Kris Dunn",
+    "draftTeam": "The Clevelan...",
+    "pickYahoo": 130.7,
+    "draftedRoundYahoo": "12.8"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 133,
+    "playerName": "Bismack Biyombo",
+    "draftTeam": "smh.gif",
+    "pickYahoo": 112,
+    "draftedRoundYahoo": "11.2"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 134,
+    "playerName": "Tyreke Evans",
+    "draftTeam": "SuperVillianZ",
+    "pickYahoo": 127.1,
+    "draftedRoundYahoo": "12.5"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 135,
+    "playerName": "Tim Frazier",
+    "draftTeam": "Drays got D",
+    "pickYahoo": 130.4,
+    "draftedRoundYahoo": "12.8"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 136,
+    "playerName": "Buddy Hield",
+    "draftTeam": "Chef KEVO",
+    "pickYahoo": 129.9,
+    "draftedRoundYahoo": "12.9"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 137,
+    "playerName": "Terrence Jones",
+    "draftTeam": "Error in The...",
+    "pickYahoo": 142.4,
+    "draftedRoundYahoo": "14.4"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 138,
+    "playerName": "Ish Smith",
+    "draftTeam": "Haren Globet...",
+    "pickYahoo": 137.2,
+    "draftedRoundYahoo": "12.7"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 139,
+    "playerName": "Stanley Johnson",
+    "draftTeam": "Andrew's Team",
+    "pickYahoo": 138.7,
+    "draftedRoundYahoo": "13.8"
+  },
+  {
+    "draftedRoundLeague": 10,
+    "pickLeague": 140,
+    "playerName": "Michael Kidd-Gilchrist",
+    "draftTeam": "Hot Grill",
+    "pickYahoo": 142.9,
+    "draftedRoundYahoo": "14.4"
+  }
+]
