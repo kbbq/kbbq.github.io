@@ -1,485 +1,123 @@
-<html lang='en'>
-<head>
-  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-  <meta content="utf-8" http-equiv="encoding">
-    <link rel='icon' type='image/png' href='images/og-logo.png' />
-    <title>i did it on my computer bruh bruh</title>
-    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
-    <link href='resources/bootstrap.min.css' rel='stylesheet' type='text/css'>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- HTML Meta Tags -->
+    <title>Kork AI</title>
+    <meta name="description" content="">
+    <!--Ported from Baas -->
 
-    <script src='resources/jquery.min.js'></script>
-    <link href='resources/metricsgraphics.css' rel='stylesheet' type='text/css'>
-    <link href='resources/metricsgraphics-demo.css' rel='stylesheet' type='text/css'>
-    <link href='resources/highlightjs-default.css' rel='stylesheet' type='text/css'>
-
-    <script src="resources/d3.v4.min.js"></script>
-    <script src='js/metricsgraphics.min.js'></script>
-    <script src="resources/cytoscape.min.js"></script>
-
-    <script src="js/node_graph1.js"></script>
-    <script src="js/node_graph2.js"></script>
-    <script src="js/node_graph3.js"></script>
-    <script src="js/node_graph4.js"></script>
-
-</head>
-<body>
-   <div class='container'>
-     <div class="row">
-       <div class="col-xs-12 text-center">
-         <img  src="resources/kennygid.png"></img>
-         <h1>Korean BBQ League</h1>
-       </div>
-     </div>
-
-     <br><br>
-     <h1>Actor Graphs</h1>
-     <hr>
-     <div class="row">
-         <div class="col-xs-10">
-           <div id="cy1" style="min-width:200px; min-height: 600px;"></div>
-           <p class="pull-right">
-             <i>Graph 1A - All Actors</i>
-           </p>
-         </div>
-         <div class="col-xs-2">
-           <h2>Overview</h2>
-           <p>
-             Graphs can be used to model many types of relations and processes in physical, biological, social and information systems. Many practical problems can be represented by graphs. Emphasizing their application to real-world systems, the term network is sometimes defined to mean a graph in which attributes are associated with the nodes and/or edges.
-           </p>
-           <br>
-         </div>
-         <div class="col-xs-12">
-           <br>
-           <p>
-             In the league graph there are a total of fifteen nodes (particpants in the league) and interactions between these actors are denoted by edges connecting each node
-           </p>
-           <br>
-         </div>
-     </div>
-     <h1>Trades</h1>
-     <hr>
-     <div class="row">
-       <div class="col-xs-3">
-         <h3>Total Trades</h3>
-         <h1 style="color:#337ab7;">17</h1>
-       </div>
-       <div class="col-xs-3">
-         <h3>Total Succesful Trades</h3>
-         <h1 style="color:#5cb85c;">9</h1>
-       </div>
-       <div class="col-xs-3">
-         <h3>Total Vetos</h3>
-         <h1 style="color:#d9534f;">8</h1>
-       </div>
-       <div class="col-xs-3">
-         <h3>Teams Involved</h3>
-         <h1 style="color:#5bc0de;">10</h1>
-       </div>
-     </div>
-     <br>
-     <h1>
-       Trade Graphs and Attributes
-     </h1>
-     <hr>
-     <div class="row">
-         <div class="col-xs-12">
-           <div id="cy2" style="min-width:300px; min-height: 600px;"></div>
-           <p class="pull-right">
-             <i>Graph 1B - All Trades</i>
-           </p>
-         </div>
-     </div>
-
-     <br>
-     <div class="row">
-       <div class="col-xs-12">
-         <p>
-           Historically first and conceptually simplest is degree centrality, which is defined as the number of links incident upon a node (i.e., the number of ties that a node has).
-           The degree can be interpreted in terms of the immediate risk of a node for catching whatever is flowing through the network (such as a virus, or some information).
-            In the case of a directed network (where ties have direction), we usually define two separate measures of degree centrality, namely indegree and outdegree.
-            Accordingly, indegree is a count of the number of ties directed to the node and outdegree is the number of ties that the node directs to others.
-            When ties are associated to some positive aspects such as friendship or collaboration, indegree is often interpreted as a form of popularity, and outdegree as gregariousness.
-            This data was scraped from the console so the edges are correct although the indegree/outdegree were ambigious.
-         </p>
-       </div>
-     </div>
-     <br>
-     <div class="row">
-         <table class="table table-hover">
-           <thead>
-             <tr>
-               <th>Team Name</th>
-               <th>Trades</th>
-               <th>Trades Accepted</th>
-               <th>Trades Offered</th>
-               <th>Degree Centrality</th>
-               <th>Closeness Centrality</th>
-             </tr>
-           </thead>
-           <tbody id="cy2TableBody"></tbody>
-         </table>
-     </div>
-
-
-     <h1>
-       Trade Sub Graphs (Successful Trades and Vetoed Trades)
-     </h1>
-     <hr>
-
-
-     <div class="row">
-       <div class="col-xs-6 panel panel-default">
-         <div id="cy3" style="min-width:300px; min-height: 600px;"></div>
-         <p class="pull-right">
-           <i>Graph 1C - All Successful Trades</i>
-         </p>
-       </div>
-       <div class="col-xs-6 panel panel-default">
-         <div id="cy4" style="min-width:300px; min-height: 600px;"></div>
-         <p class="pull-right">
-           <i>Graph 1D - All Vetoed Trades</i>
-         </p>
-       </div>
-     </div>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" >
+    <link href="resources/custom.css" rel="stylesheet">
+  
 
 
 
+  </head>
+  <body>
+     <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <a href="/" class="navbar-brand d-flex w-50 mr-auto">
+        <span style="font-weight: 700; margin:0px 5px">Kork AI</span>
+      </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="collapsingNavbar3">
+        <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
+    		<!--
+             <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#howitworks">%Nav Item1%</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#faqs">%Nav Item2%</a>
+            </li>
+             <li class="nav-item">
+                <a class="nav-link" href="https://baas.memberful.com/account">%Nav Item3%</a>
+            </li>-->
+            <li class="nav-item">
+              <a href="#join" class="btn btn-success">Sign Up</a>
+            </li>
+        </ul>
+    </div>
+      </nav>
 
 
 
-     <h1>Draft Results</h1>
-     <hr>
+    <section id="hero">
+     <div class="jumbotron text-center">
+      <div class="container jumbo-text">
+        <h1>Get <span style="color:#5386ff;">Kork</span></h1>
+        <h4>
+    		Use machine learning to find good corks and detect diseased corks passing through your factory supply chain	 using AI
+        </h4>
 
-     <div class="row">
-       <div class="col-xs-10">
-         <div id="categorical2"></div>
-       </div>
-       <div class="col-xs-2">
-         <div id="sc1Desc" class="text-center">
-           <h2>Overview</h2>
-           <p>
-             A scatter plot is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data. If the points are color-coded, one additional variable can be displayed. The data is displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis.
-           </p>
-           <br>
-         </div>
-       </div>
-     </div>
-     <br>
-     <div class="row">
-         <table class="table table-hover">
-           <thead>
-             <tr>
-               <th>Team Name</th>
-               <th>Player</th>
-               <th>League Draft Pick</th>
-               <th>Yahoo Draft Pick </th>
-               <th>Delta</th>
-               <th>League Draft Round</th>
-               <th>Yahoo Draft Round</th>
-             </tr>
-           </thead>
-           <tbody id="draftDeltaTableBody"></tbody>
-         </table>
-     </div>
-     <br></br>
-     <hr>
+	    	<form name="submit-to-google-sheet">
+		  		<input name="email" type="email" placeholder="Email Address" class="form-control" required>
+		  		<br>
+		  		<button type="submit"  class="btn btn-success form-control">Sign Up For Closed Beta</button>
+			</form>
 
+			<script>
+			  const scriptURL = 'https://script.google.com/macros/s/AKfycbzdneIKX0AExFKEaMcBI_n4CzcnYtS9yUxr90VGbP3PwlzchucN/exec'
+			  const form = document.forms['submit-to-google-sheet']
 
+			  form.addEventListener('submit', e => {
+			    e.preventDefault()
+			    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+			      .then(response => 
+              console.log('Success!', response)
+              )
+			      .catch(error => console.error('Error!', error.message))
+			  })
+			</script>
 
-
-
-     <h1>Moving Forward</h1>
-     <hr>
-     <div class="row">
-       <div class="col-xs-12">
-
-       </div>
-     </div>
-
-      <h1>Sentiment Analysis (External Signal Processing)</h1>
-      <hr>
-      <div class="row">
-        <div class="col-xs-10">
-          <div id="jrsmith"></div>
-        </div>
-        <div class="col-xs-2 text-center">
-          <br>
-          An average polarity of 100 tweets per day when querying for a specific player (JR Smith).
-          <br><br>
-          The data is then graphed over time to show how opinion on social media changes over time related to a give query
-
-        </div>
-        <div class="col-xs-12">
-          <p>
-            Sentiment analysis (sometimes known as opinion mining or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine.
-          </p>
-          <code>
-            <br>
-            #Official Twitter API<br>
-            #auth = tweepy.OAuthHandler(consumer_key, consumer_secret)<br>
-            #auth.set_access_token(access_token, access_token_secret)<br>
-            #api = tweepy.API(auth)<br>
-            #public_tweets = api.search(q='JR Smith', count=100)<br><br>
-
-            #--------------------------<br><br>
-
-            #Unofficial Twitter API<br>
-              tweetCriteria = got.manager.TweetCriteria().setQuerySearch('JR Smith').setSince(since).setUntil(until).setMaxTweets(100)<br>
-              public_tweets = got.manager.TweetManager.getTweets(tweetCriteria)<br><br>
-
-              for tweet in public_tweets:<br>
-                analysis = TextBlob(tweet.text)<br>
-                totalSentiment += analysis.sentiment.polarity<br><br>
-
-              avgSentiment = totalSentiment / len(public_tweets)<br>
-
-          </code>
-        </div>
+			
       </div>
-
-      <h1>TODO: Team Performance Metrics</h1>
-      <hr>
-      <div class="row">
-        <div class="col-xs-12">
-          <div id="ufo-sightings"></div>
-        </div>
-        <div class="col-xs-12">
-          <p>
-            The Yahoo Fantasy API allows developers to interact with fantasy sports in multiple ways. One of the immediate ways is querying league
-            resources to see a break down of information avaliable through both the web application and mobile app. Some information is stats for a given
-            player which would allow continous observation of a team as the season progressed and the ability to act and decide upon this information.
-
-            <br>
-
-            Above is a time series chart that is populated with dummy data but with use of the API any metric could easily be graphed in realtime and shown over
-            a period of time. It would also be interesting to graph competeting models with different strategies/methods to see which preformed best when forecasting.
-            Below is some code that demostrates use of authenticating with the API and querying for player resources to sum total points from a roster to create a summary
-            data point
-          </p>
-          <code>
-            <br>
-            teams = [<br>
-                {'Error in The Process':'364.l.69655.t.1'},<br>
-                {'Andrew\'s Team':'364.l.69655.t.2'},<br>
-                {'Champs':'364.l.69655.t.3'},<br>
-                {'Keak da Greek':'364.l.69655.t.4'},<br>
-                {'SuperVillianZ':'364.l.69655.t.5'},<br>
-                {'Jenn-nay':'364.l.69655.t.6'},<br>
-                {'The Cleveland Browns':'364.l.69655.t.7'},<br>
-                {'Like A Bosh':'364.l.69655.t.8'},<br>
-                {'Haren Globetrotters':'364.l.69655.t.9'},<br>
-                {'LillardTime incoming':'364.l.69655.t.10'},<br>
-                {'Hot Grill':'364.l.69655.t.11'},<br>
-                {'smh.gif':'364.l.69655.t.12'},<br>
-                {'Chef KEVO':'364.l.69655.t.13'},<br>
-                {'Drays got D':'364.l.69655.t.14'},<br>
-            ]<br>
-            #print teams[0].values()<br><br>
-
-            teamKey = "364.l.69655.t.4"<br><br>
-            statsDate = "2017-01-11"<br><br>
-            url = "https://fantasysports.yahooapis.com/fantasy/v2/teams;team_keys=" + teamKey + "/roster/players/stats;date=" + statsDate + "?format=json"<br><br>
-
-            from yahoo_oauth import OAuth2<br>
-            oauth = OAuth2(None, None, from_file='oauth2.json')<br>
-            if not oauth.token_is_valid():<br>
-                oauth.refresh_access_token()<br><br>
-
-            #response = oauth.session.get('https://fantasysports.yahooapis.com/fantasy/v2/teams;team_keys=364.l.69655.t.4/roster/players/stats;date=2017-02-17?format=json')<br>
-            response = oauth.session.get(url)<br>
-            print response<br><br>
-
-            #if response.status_code<br>
-            data = json.loads(response.text)<br>
-            num_players = data['fantasy_content']['teams']['0']['team'][1]['roster']['0']['players']['count']<br>
-            for i in range(num_players):<br>
-                print data['fantasy_content']['teams']['0']['team'][1]['roster']['0']['players'][str(i)]['player'][0][2]['name']['full']<br>
-                print data['fantasy_content']['teams']['0']['team'][1]['roster']['0']['players'][str(i)]['player'][2]['player_points']['total']<br><br>
-
-            #print data['fantasy_content']['teams'][0]['team'][1]['roster'][0]['players']<br><br>
-
-
-            #### Iterate over the season using the correct api methods to generate time series data ####<br>
-            #start = datetime.datetime.strptime("25-10-2016", "%d-%m-%Y")<br>
-            #end = datetime.datetime.strptime("19-03-2017", "%d-%m-%Y")<br>
-            #date_generated = [start + datetime.timedelta(days=x) for x in range(0, (end-start).days)]<br><br>
-
-            #for date in date_generated:<br>
-            #    print date.strftime("%Y-%m-%d")<br><br>
-
-            #print len(date_generated)<br>
-
-          </code>
-        </div>
-
-
+      <div class="container">
 
       </div>
+    </div>
+    </section>
 
-      <h1>TODO: Programmatic Interactions (Add/Drop/Trade/Draft/Etc)</h1>
-      <hr>
-      <div class="row">
-        <div class="col-xs-12">
-          <p>
-            With the ability to observe the API allows user to decide and act on information gathered. More can be found at <a href="https://developer.yahoo.com/fantasysports/guide/">https://developer.yahoo.com/fantasysports/guide/</a>
-          </p>
-          <br><br><br>
+    
+
+  <section id="howitworks">
+    <h2 class="text-center">1€/1000 Corks, Three Simple Integrations</h2>
+      <p class="text-center"></p>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm hiw-col">
+            <h4><span class="how-it-works-item jordy-blue">1</span>Web API</h4>
+            <p>Use the Web API to automatically detect product features in a 1/10 of a second in parallel faster than any human. Easily integrate the trained Kork model into your supply chain</p>
+          </div>
+          <div class="col-sm hiw-col">
+            <h4><span class="how-it-works-item amaranth-pink">2</span>Local Model</h4>
+            <p>For buisnesses that already have vision solutions import a simple library to improve your existing infrastructure. Extend existing hardware with AI to create smart devices</p>
+          </div>
+          <div class="col-sm hiw-col">
+            <h4><span class="how-it-works-item mellow-yellow">3</span>Hardware Kit</h4>
+            <p>No solutions in place and manual analysis performed? Use the development kit to immediately get started optimizing buisness operations, plug and play</p>
+          </div>
         </div>
       </div>
-
-  </div>
-
+    </section>
 
 
+   
 
 
-
-
-
-
-
-
-
+  
+ <!-- Footer -->
+    <footer class="realfooter">
+     <p class="text-center"></p>
+     <p class="text-center"><a href="#">Privacy Policy</a> | <a href="#">Terms & Conditions</a></p>
+    </footer>
 
 
 
-
-
-
-
-
-
-<script>
-d3.json('data/fake_users2.json', function(data) {
-  for (var i = 0; i < data.length; i++) {
-      data[i] = MG.convert.date(data[i], 'date');
-  }
-
-  MG.data_graphic({
-      title: "Multi-Line Chart",
-      description: "This line chart contains multiple lines.",
-      data: data,
-      full_width: true,
-      height: 300,
-      right: 40,
-      target: '#ufo-sightings',
-      legend: ['Actual Output','Potential Output','Model Prediction'],
-      //legend_target: '.legend'
-  });
-})
-
-
-d3.json('data/jrsmith.json', function(data) {
-  data = MG.convert.date(data, 'date');
-
-  MG.data_graphic({
-      title: "JR Smith Polarity",
-      description: "Sent",
-      data: data,
-      full_width: true,
-      height: 300,
-      right: 40,
-      target: '#jrsmith',
-      x_accessor: 'date',
-      y_accessor: 'polarity'
-  });
-})
-
-
-
-
-
-
-
-d3.json('data/draftData2.json', function(data) {
-    MG.data_graphic({
-        title: "League Draft Picks VS Average Yahoo Draft Picks ",
-        description: "By setting color_type to 'category' you can color the points according to another discrete value.",
-        data: data,
-        chart_type: 'point',
-        //least_squares: true,
-        full_width: true,
-        height: 750,
-        right: 10,
-        target: '#categorical2',
-        x_accessor: 'pickYahoo',
-        x_label: 'Yahoo Average Draft Pick',
-        y_accessor: 'pickLeague',
-        y_label: 'League Draft Pick',
-        color_accessor: 'draftTeam',
-        color_type:'category',
-        point_size: 5,
-        mouseover: function(d, i) { legendLookup() },//console.log(d,i); },
-        //legend: ['draftTeam','Line 2','Line 1'],
-        //legend_target: '.legend'
-    });
-})
-
-var draftData;
-d3.json('data/draftData2.json', function(data) {
-  draftData = data;
-  createDraftDeltaTableRows(data);
-});
-
-function legendLookup(){
-  //console.log(dr[0]);
-  var pickYahooFull  = document.getElementsByClassName('mg-active-datapoint')[0].children[0].children[2].innerHTML;
-  var pickLeagueFull = document.getElementsByClassName('mg-active-datapoint')[0].children[0].children[3].innerHTML;
-  var pickYahoo  = pickYahooFull.split('pickYahoo: ')[1];
-  var pickLeague = pickLeagueFull.split('pickLeague: ')[1];
-
-  for(i=0; i < draftData.length; i++){
-    if(draftData[i].pickYahoo == pickYahoo && draftData[i].pickLeague == pickLeague){
-      updateScatter1Description(draftData[i]);
-    }
-  }
-}
-
-function updateScatter1Description(obj){
-  var draftedRoundLeague = obj.draftedRoundLeague;
-  var pickLeague = obj.pickLeague;
-  var playerName = obj.playerName;
-  var draftTeam  = obj.draftTeam;
-  var pickYahoo  = obj.pickYahoo;
-  var draftedRoundYahoo = obj.draftedRoundYahoo;
-
-  var content = "<br></br>";
-  content += "<h2>Player</h2><p>"+obj.playerName+"</p>";
-  content += "<h2>Drafted to</h2><p>"+obj.draftTeam+"</p>";
-  content += "<h2>League Pick</h2><p>"+obj.pickLeague+"</p>";
-  content += "<h2>Yahoo Pick</h2><p>"+obj.pickYahoo+"</p>";
-  content += "<h2>League Round</h2><p>"+obj.draftedRoundLeague+"</p>";
-  content += "<h2>Yahoo Round</h2><p>"+obj.draftedRoundYahoo+"</p>";
-  document.getElementById('sc1Desc').innerHTML = content;
-}
-
-function createDraftDeltaTableRows(obj){
-  var sorted = obj.sort(customSort);
-  var content = "";
-  for(i=0; i < 10; i++){
-    content += "<tr>";
-    content += "<td>"+sorted[i].draftTeam+"</td>";
-    content += "<td>"+sorted[i].playerName+"</td>";
-    content += "<td>"+sorted[i].pickLeague+"</td>";
-    content += "<td>"+sorted[i].pickYahoo+"</td>";
-    var delta = Math.abs(sorted[i].pickLeague - sorted[i].pickYahoo).toFixed(2);
-    content += "<td>"+delta+"</td>";
-    content += "<td>"+sorted[i].draftedRoundLeague+"</td>";
-    content += "<td>"+sorted[i].draftedRoundYahoo+"</td>";
-    content += "</tr>";
-  }
-  document.getElementById('draftDeltaTableBody').innerHTML = content;
-}
-
-function customSort(a, b) {
-  var a = Math.abs(a.pickLeague - a.pickYahoo);
-  var b = Math.abs(b.pickLeague - b.pickYahoo);
-  return b - a;
-};
-
-</script>
-
-
-
-</body>
+  </body>
 </html>
